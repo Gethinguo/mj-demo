@@ -16,9 +16,9 @@ yarn serve
 yarn build
 ```
 ## demo线上地址
-- [知数云](https://data.zhishuyun.com/services)
+- [知数据云：mj接口申请](https://auth.zhishuyun.com/auth/login?inviter_id=2ab51d06-743f-4a52-917f-af8b4a761400&redirect=https://data.zhishuyun.com)
 - [demo线上地址](http://39.105.30.5/mj-demo/)
-- [demo地址](https://ggx.ink/mj-demo/)
+- [demo线上地址](https://ggx.ink/mj-demo/)
 - [github地址](https://github.com/Gethinguo/mj-demo)
 
 ## 协议
