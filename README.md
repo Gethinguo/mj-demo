@@ -16,7 +16,8 @@ yarn serve
 yarn build
 ```
 ## demo线上地址
-- [demo地址](http://39.105.30.5/mj-demo/)
+- [github地址](https://github.com/Gethinguo/mj-demo)
+- [demo线上地址](http://39.105.30.5/mj-demo/)
 - [demo地址](https://ggx.ink/mj-demo/)
 ## 预览
 ![](./doc/preview0.png)

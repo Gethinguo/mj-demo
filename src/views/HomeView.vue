@@ -12,7 +12,7 @@
     <h3>
       1. 要使用 Midjourney Imagine API，首先可以到
       <a
-        href="https://data.zhishuyun.com/documents/58ea7cc1-c685-40c3-a619-f29f9ac5d8f4"
+        href="https://auth.zhishuyun.com/auth/login?inviter_id=2ab51d06-743f-4a52-917f-af8b4a761400&redirect=https://data.zhishuyun.com"
         >Midjourney Imagine API</a
       >
       页面点击「获取」按钮：
