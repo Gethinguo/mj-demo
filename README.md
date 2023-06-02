@@ -2,7 +2,9 @@
 > 知数云 MJ画图demo,调用  Midjourney Imagine API 进行画图
 > 
 > 有意向合作，请咨询淡然（微信：qq1160940854）。
-![](./doc/code.jpeg)
+
+
+![](./doc/code2.png)
 ## Project 
 ```
 yarn install
@@ -28,4 +30,4 @@ yarn build
 ![](./doc/preview2.png)
 
 ## 赞助我们
-![](./doc/code2.png)
+![](./doc/code.jpeg)
