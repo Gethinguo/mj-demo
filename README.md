@@ -3,8 +3,7 @@
 > 
 > 有意向合作，请咨询淡然（微信：qq1160940854）。
 
-
-![](./doc/code2.png)
+<img src="./doc/code2.png"   width="20%">
 ## Project 
 ```
 yarn install
@@ -30,4 +29,4 @@ yarn build
 ![](./doc/preview2.png)
 
 ## 赞助我们
-![](./doc/code.jpeg)
+<img src="./doc/code.jpeg"   width="20%">
