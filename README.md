@@ -1,7 +1,7 @@
 # mj-demo
 > 知数云 MJ画图demo,调用  Midjourney Imagine API 进行画图
 > 
-> 有意向合作，请咨询淡然（🛰qq1160940854）。
+> 有意向合作，请咨询淡然（微信：qq1160940854）。
 ![](./doc/code.jpeg)
 ## Project 
 ```
@@ -14,10 +14,10 @@ yarn serve
 yarn build
 ```
 ## demo线上地址
-- [github地址](https://github.com/Gethinguo/mj-demo)
+- [知数云](https://data.zhishuyun.com/services)
 - [demo线上地址](http://39.105.30.5/mj-demo/)
 - [demo地址](https://ggx.ink/mj-demo/)
-- [知数云](https://data.zhishuyun.com/services)
+- [github地址](https://github.com/Gethinguo/mj-demo)
 
 ## 协议
 
